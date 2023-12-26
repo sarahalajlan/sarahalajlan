@@ -14,7 +14,7 @@
 </div> 
 
 
-## Get to Know Me <img src="https://user-images.githubusercontent.com/74038190/236119650-f49991cf-21c3-46ef-a947-760ab27a10d0.gif" width="75">&nbsp;
+## Get to Know Me <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">&nbsp;
 
 🎓 I'm a Computer Science student, currently on a journey of learning and mastering a diverse set of technologies:
 
