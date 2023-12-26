@@ -14,11 +14,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
-
-  <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-  <p align="center">
-    <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-  </p>
   
  <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 ![Snake animation](https://github.com/sarahalajlan/sarahalajlan/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
@@ -29,10 +24,13 @@
   <div align="center">
   <a href="https://github.com/sarahalajlan/sarahalajlan"><img alt="sarahalajlan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sarahalajlan&bg_color=RRGGBBAA&title_color=5acbe9&color=5acbe9&line=5acbe9&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   </div>
-  
+
+  <p align="center">
+    
  ### Github Profile Views
   ![Visitor Count](https://profile-counter.glitch.me/{sarahalajlan}/count.svg)
-
+    </p>
+    
   <!--🦶FOOTER--> 
   <p align="center">
  <img src="https://raw.githubusercontent.com/sarahalajlan/sarahalajlan/main/.images/footer.svg" width="100%" 
