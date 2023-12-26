@@ -70,8 +70,8 @@
   ## **Let's Connect!**
 <div>
 	
-  <a href="https://www.linkedin.com/in/hutoon-alomran-94a4aa192/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/sarah-alajlan-a3597a214/">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
   </a>
 	
   <a href="https://twitter.com/AlomranHutoon" target="_blank">
