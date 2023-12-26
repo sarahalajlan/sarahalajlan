@@ -2,7 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=What+is+up;I+am+a+senior+Computer+Science+student;)](https://git.io/typing-svg)
 
+
 <!--
+### Github Profile Views
+![Visitor Count](https://profile-counter.glitch.me/{sarahalajlan}/count.svg)
 
 **sarahalajlan/sarahalajlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
