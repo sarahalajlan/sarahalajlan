@@ -7,7 +7,6 @@
 ### Github Profile Views
 ![Visitor Count](https://profile-counter.glitch.me/{sarahalajlan}/count.svg)
 
- <img src="Images/Dynamic/snake.svg" style="background:#161b22;">
 
 <!--
 
