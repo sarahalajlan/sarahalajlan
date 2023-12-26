@@ -14,6 +14,18 @@
 </div> 
 
 
+## Get to Know Me
+
+🎓 I'm a Computer Science student, currently on a journey of learning and mastering a diverse set of technologies:
+
+- 🚀 Exploring the world of mobile app development with **Flutter**, **Swift**, and **Kotlin**.
+- 🔥 Building dynamic and scalable applications using **Firebase**.
+- 💻 Crafting web experiences with **HTML** and **CSS**.
+- 🌐 Embracing the power of container orchestration with **Kubernetes**.
+
+🤓 I find joy in the continuous learning process and the challenge of staying up-to-date with the latest in the ever-evolving tech landscape.
+
+📧 Feel free to reach out to me at [sarahalajlan100@gmail.com](mailto:sarahalajlan100@gmail.com).
 
 
 
