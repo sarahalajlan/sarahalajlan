@@ -29,7 +29,7 @@
 
   <!--🦶FOOTER--> 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/D3vil0per/D3vil0per/main/.images/footer.svg" width="100%">
+ <img src="https://raw.githubusercontent.com/sarahalajlan/sarahalajlan/main/.images/footer.svg" width="100%" 
   </p>
 
 </div>
