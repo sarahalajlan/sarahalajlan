@@ -18,8 +18,7 @@
   </p>
   
  <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-![GitHub Activity Graph](https://github.com/sarahalajlan/sarahalajlan/graphs/snake.svg)
-
+![Snake animation](https://github.com/sarahalajlan/sarahalajlan/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
   
   <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarahalajlan&theme=chartreuse-dark" width="100%">
