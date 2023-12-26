@@ -44,6 +44,21 @@
   <a href="https://github.com/sarahalajlan/sarahalajlan"><img alt="sarahalajlan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sarahalajlan&bg_color=RRGGBBAA&title_color=5acbe9&color=5acbe9&line=5acbe9&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   </div>
 
+
+<br>
+<!-- my github progress -->
+## <picture><img src = "https://github.com/hutoonalomran/img/blob/main/imgs/progress.gif" width = 50px></picture> **My Github Progress**
+
+- <h3>💻GitHub Profile Stats</h3>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+	 <img alt="Hutoon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hutoonalomran&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hutoonalomran&langs_count=5&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
+</p>
+<br>
+
+
+
   <div align="center">
     
  ### Github Profile Views
