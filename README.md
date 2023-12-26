@@ -1,6 +1,6 @@
 ### Hi there, I'm Sarah👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=What+is+up;I+am+a+senior+Computer+Science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=What+is+up;I+am+a+senior+Computer+Science+student;)](https://git.io/typing-svg)
 
 <!--
 **sarahalajlan/sarahalajlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--🦶FOOTER--> 
+<img src="https://raw.githubusercontent.com/D3vil0per/D3vil0per/main/.images/footer.svg" width="100%">
