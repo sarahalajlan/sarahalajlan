@@ -7,13 +7,12 @@
 </head>
 <body>
 
-<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="width: 100%; position: fixed; top: -1px; transform: rotate(90deg); overflow: visible;">
+<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="width: 100%; position: fixed; top: -1px; overflow: visible;">
   <style>
     svg {
       width: 100%;
       position: fixed;
       top: -1px;
-      transform: rotate(90deg);
       overflow: visible;
     }
     .wave {
