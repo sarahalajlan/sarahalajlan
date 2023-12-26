@@ -9,9 +9,8 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&pause=1000&color=99E4F7&center=true&vCenter=true&random=false&width=435&lines=What+is+up;I+am+a+senior+Computer+Science+student)](https://git.io/typing-svg)
 
-  ### Github Profile Views
-  ![Visitor Count](https://profile-counter.glitch.me/{sarahalajlan}/count.svg)
 
+## **My Skills**
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
@@ -30,6 +29,9 @@
   <div align="center">
   <a href="https://github.com/sarahalajlan/sarahalajlan"><img alt="sarahalajlan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sarahalajlan&bg_color=RRGGBBAA&title_color=5acbe9&color=5acbe9&line=5acbe9&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   </div>
+  
+ ### Github Profile Views
+  ![Visitor Count](https://profile-counter.glitch.me/{sarahalajlan}/count.svg)
 
   <!--🦶FOOTER--> 
   <p align="center">
