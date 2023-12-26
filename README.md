@@ -74,8 +74,8 @@
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60">
   </a>
 	
-  <a href="https://twitter.com/AlomranHutoon" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter"/>
+  <a href="https://twitter.com/SJLEE700" target="_blank">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="60">
   </a>
   <a href="mailto:hutoon9@gmail.com">
     <img src="https://github.com/hutoonalomran/img/blob/main/imgs/gmail.png"  width = 48px />
