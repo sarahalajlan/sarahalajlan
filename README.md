@@ -23,7 +23,7 @@
 - 💻 Crafting web experiences with **HTML** and **CSS**.
 - ☁️ Embracing the power of container orchestration with **Kubernetes**.
 
-👩‍💻<img src="[https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif](https://private-user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif" width="30px">  I find joy in the continuous learning process and the challenge of staying up-to-date with the latest in the ever-evolving tech landscape.
+👩‍💻<img src="https://private-user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif" width="30px">  I find joy in the continuous learning process and the challenge of staying up-to-date with the latest in the ever-evolving tech landscape.
 
 📧 Feel free to reach out to me at [sarahalajlan100@gmail.com](mailto:sarahalajlan100@gmail.com).
 
