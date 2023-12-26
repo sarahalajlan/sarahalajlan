@@ -29,10 +29,10 @@
     
  ### Github Profile Views
   ![Visitor Count](https://profile-counter.glitch.me/{sarahalajlan}/count.svg)
-    </p>
+    
     
   <!--🦶FOOTER--> 
-  <p align="center">
+ 
  <img src="https://raw.githubusercontent.com/sarahalajlan/sarahalajlan/main/.images/footer.svg" width="100%" 
   </p>
 
