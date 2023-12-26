@@ -66,6 +66,27 @@
   ![Visitor Count](https://profile-counter.glitch.me/{sarahalajlan}/count.svg)
 
   </div>
+
+  ## **Let's Connect!**
+<div>
+	
+  <a href="https://www.linkedin.com/in/hutoon-alomran-94a4aa192/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+	
+  <a href="https://twitter.com/AlomranHutoon" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter"/>
+  </a>
+  <a href="mailto:hutoon9@gmail.com">
+    <img src="https://github.com/hutoonalomran/img/blob/main/imgs/gmail.png"  width = 48px />
+  </a>
+
+  <a href="https://hutoonalomran.github.io/hutoonalomran./">
+    <img src="https://github.com/hutoonalomran/img/blob/main/imgs/web.png" width = 51px />
+  </a>
+</div>
+<br>
+ <img src="https://github.com/hutoonalomran/img/blob/main/imgs/had2.svg" width="100%" style="max-width: 100%;">
     
   <!--🦶FOOTER--> 
  
