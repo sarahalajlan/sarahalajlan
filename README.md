@@ -54,7 +54,7 @@
 - <h3>💻GitHub Profile Stats</h3>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-	 <img alt="Hutoon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sarahalajlan&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	 <img alt="Sarah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sarahalajlan&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarahalajlan&langs_count=5&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 </p>
 <br>
