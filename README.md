@@ -25,11 +25,12 @@
   <a href="https://github.com/sarahalajlan/sarahalajlan"><img alt="sarahalajlan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sarahalajlan&bg_color=RRGGBBAA&title_color=5acbe9&color=5acbe9&line=5acbe9&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   </div>
 
-  <p align="center">
+  <div align="center">
     
  ### Github Profile Views
   ![Visitor Count](https://profile-counter.glitch.me/{sarahalajlan}/count.svg)
-    
+
+  </div>
     
   <!--🦶FOOTER--> 
  
