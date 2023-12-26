@@ -13,9 +13,6 @@
    </div>
 </div> 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sarahalajlan&theme=react&hide_border=true&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered" alt="Sarah's github stats"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahalajlan&theme=react&hide_border=true&layout=compact" alt="Sarah's top languages"/></a>
-
 
 ## Get to Know Me
 
@@ -56,12 +53,8 @@
 ## <picture><img src = "https://github.com/hutoonalomran/img/blob/main/imgs/progress.gif" width = 50px></picture> **My Github Progress**
 
 - <h3>💻GitHub Profile Stats</h3>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-	 <img alt="Sarah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sarahalajlan&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarahalajlan&langs_count=5&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
-</p>
-<br>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sarahalajlan&theme=react&hide_border=true&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered" alt="Sarah's github stats"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahalajlan&theme=react&hide_border=true&layout=compact" alt="Sarah's top languages"/></a>
 
 
 
