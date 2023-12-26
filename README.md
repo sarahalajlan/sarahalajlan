@@ -1,6 +1,6 @@
 <div align="center">
   <!--🦶HEADER--> 
-  <p align="center" style="transform: rotate(90deg);">
+  <p align="center" style="transform: rotate(180deg);">
     <img src="https://raw.githubusercontent.com/D3vil0per/D3vil0per/main/.images/footer.svg" width="100%">
   </p>
 
