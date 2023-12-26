@@ -16,7 +16,7 @@
 
 ## Get to Know Me
 
-🎓 I'm a Computer Science student, currently on a journey of learning and mastering a diverse set of technologies:
+🎓 I'm a Senior Computer Science student, currently on a journey of learning and mastering a diverse set of technologies:
 
 - 🚀 Exploring the world of mobile app development with **Flutter**, **Swift**, and **Kotlin**.
 - 🔥 Building dynamic and scalable applications using **Firebase**.
