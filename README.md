@@ -1,6 +1,6 @@
 ### Hi there, I'm Sarah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  <img src="https://media.tenor.com/UdMNNyr9BgIAAAAi/discord-discordgifemoji.gif" />&nbsp; 
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=What+is+up;I+am+a+senior+Computer+Science+student;)](https://git.io/typing-svg)
+    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=What+is+up;I+am+a+senior+Computer+Science+student;)](https://git.io/typing-svg)
 
 
 
