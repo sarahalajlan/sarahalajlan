@@ -1,7 +1,7 @@
 <div align="center">
      <!--🦶HEADER--> 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/D3vil0per/D3vil0per/main/.images/footer.svg" width="100%" style="transform: rotate(360deg);">
+    <img src="https://raw.githubusercontent.com/D3vil0per/D3vil0per/main/.images/footer.svg" width="100%" style="transform: rotate(90deg);">
 
   </p>
      
