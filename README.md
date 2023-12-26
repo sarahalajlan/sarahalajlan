@@ -26,7 +26,7 @@
 
 
   <div align="center">
-  <a href="https://github.com/K1rsN7/K1rsN7"><img alt="K1rsN7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=K1rsN7&bg_color=RRGGBBAA&title_color=5acbe9&color=5acbe9&line=5acbe9&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+  <a href="https://github.com/sarahalajlan/sarahalajlan"><img alt="sarahalajlan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sarahalajlan&bg_color=RRGGBBAA&title_color=5acbe9&color=5acbe9&line=5acbe9&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   </div>
 
   <!--🦶FOOTER--> 
