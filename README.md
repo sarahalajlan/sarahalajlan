@@ -18,7 +18,7 @@
 
 
 ## **My Skills**
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,c,eclipse,figma,github,java,js,matlab,mysql,py,pytorch,tensorflow,vscode,linux,jupyter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,c,eclipse,figma,github,java,js,matlab,mysql,py,pytorch,tensorflow,vscode,linux,jupyternotebook)](https://skillicons.dev)
 
 
   
