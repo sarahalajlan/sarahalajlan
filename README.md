@@ -85,8 +85,6 @@
     <img src="https://github.com/hutoonalomran/img/blob/main/imgs/web.png" width = 51px />
   </a>
 </div>
-<br>
- <img src="https://github.com/hutoonalomran/img/blob/main/imgs/had2.svg" width="100%" style="max-width: 100%;">
     
   <!--🦶FOOTER--> 
  
