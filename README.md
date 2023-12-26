@@ -16,8 +16,6 @@
 
 ## Get to Know Me
 
-## Get to Know Me
-
 🎓 I'm a Computer Science student, currently on a journey of learning and mastering a diverse set of technologies:
 
 - 🚀 Exploring the world of mobile app development with **Flutter**, **Dart**, **Swift**, and **Kotlin**.
