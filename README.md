@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <!--🦶HEADER--> 
   <p align="center" style="transform: rotate(180deg);">
    <img src="https://raw.githubusercontent.com/sarahalajlan/sarahalajlan/main/.images/header.svg" width="100%" style="transform: rotate(180deg);">
