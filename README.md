@@ -5,13 +5,11 @@
  
   </p>
 
- <p align="center" style="transform: rotate(180deg);">
-   
+   <div align="center">
   ## **Hi there, I'm Sarah**  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">   <img src="https://media.tenor.com/UdMNNyr9BgIAAAAi/discord-discordgifemoji.gif" />&nbsp; 
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&pause=1000&color=99E4F7&center=true&vCenter=true&random=false&width=435&lines=What+is+up;I+am+a+senior+Computer+Science+student)](https://git.io/typing-svg)
-   </p>
-   
+   </div>
 </div> 
 
 ## **My Skills**
