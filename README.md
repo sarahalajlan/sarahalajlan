@@ -12,6 +12,10 @@
   ### Github Profile Views
   ![Visitor Count](https://profile-counter.glitch.me/{sarahalajlan}/count.svg)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
+
   <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
   <p align="center">
     <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
