@@ -1,0 +1,12 @@
+<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="width: 100%; position: fixed; top: -1px; transform: rotate(90deg); overflow: visible;">
+  <style>
+    /* The rest of your styles remain unchanged */
+  </style>
+
+  <defs> 
+    <!-- The rest of your definitions remain unchanged -->
+  </defs>
+
+  <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0"></use>
+  <use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2"></use> 
+</svg>
