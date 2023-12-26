@@ -77,13 +77,10 @@
   <a href="https://twitter.com/SJLEE700" target="_blank">
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="60">
   </a>
-  <a href="mailto:hutoon9@gmail.com">
-    <img src="https://github.com/hutoonalomran/img/blob/main/imgs/gmail.png"  width = 48px />
+  <a href="mailto:sarahalajlan100@gmail.com">
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="60" />
   </a>
-
-  <a href="https://hutoonalomran.github.io/hutoonalomran./">
-    <img src="https://github.com/hutoonalomran/img/blob/main/imgs/web.png" width = 51px />
-  </a>
+  
 </div>
     
   <!--🦶FOOTER--> 
