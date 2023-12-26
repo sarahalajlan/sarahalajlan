@@ -21,9 +21,9 @@
 - 🚀 Exploring the world of mobile app development with **Flutter**, **Dart**, **Swift**, and **Kotlin**.
 - 🔥 Building dynamic and scalable applications using **Firebase**.
 - 💻 Crafting web experiences with **HTML** and **CSS**.
-- 🌐 Embracing the power of container orchestration with **Kubernetes**.
+- ☁️ Embracing the power of container orchestration with **Kubernetes**.
 
-👩‍💻 I find joy in the continuous learning process and the challenge of staying up-to-date with the latest in the ever-evolving tech landscape.
+👩‍💻<img src="[https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif](https://private-user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM2MTM0MDYsIm5iZiI6MTcwMzYxMzEwNiwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzkwNzktMjMxMzc1Y2UtNThhMy00YzNiLTg1YzgtNDRlYTUxZDEzMThmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjI2VDE3NTE0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ0YjI5MTE4M2ViZDM2YTdiMzcwOTMyYTQ1MjNkNjNlMDViNDBjNWNmNmE1NWU3ZmQ4NGEwMWY4YTk4MzA2ODYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.YDoqfhEognZjbpgt2F4e672Las58QVdunYiwFLQ96yQ)" width="30px">  I find joy in the continuous learning process and the challenge of staying up-to-date with the latest in the ever-evolving tech landscape.
 
 📧 Feel free to reach out to me at [sarahalajlan100@gmail.com](mailto:sarahalajlan100@gmail.com).
 
