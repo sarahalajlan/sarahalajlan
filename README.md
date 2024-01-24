@@ -31,7 +31,7 @@
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">**My Skills**
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,c,eclipse,figma,github,java,js,matlab,mysql,py,pytorch,tensorflow,vscode,linux,docker,kubernetes,swiftui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,c,eclipse,figma,github,java,js,matlab,mysql,py,pytorch,tensorflow,vscode,linux,docker,kubernetes,anaconda,nginx,powershell,swift)](https://skillicons.dev)
 
 
   
