@@ -25,7 +25,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30"> I find joy in the continuous learning process and the challenge of staying up-to-date with the latest in the ever-evolving tech landscape.
 
-📧 Feel free to reach out to me at [sarahalajlan100@gmail.com](mailto:sarahalajlan100@gmail.com).
+📧 Feel free to reach out to me at [sarahalajlan100@gmail.com](mailto:sarahalajlan@outlook.com).
 
 
 
@@ -77,7 +77,7 @@
   <a href="https://twitter.com/SJLEE700" target="_blank">
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="60">
   </a>
-  <a href="mailto:sarahalajlan100@gmail.com">
+  <a href="mailto:sarahalajlan@outlook.com">
     <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="60" />
   </a>
   
