@@ -36,7 +36,7 @@
 
   
  <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-![Snake animation](https://github.com/sarahalajlan/sarahalajlan/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+<!-- ![Snake animation](https://github.com/sarahalajlan/sarahalajlan/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
   
   <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
