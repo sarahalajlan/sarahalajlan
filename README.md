@@ -16,9 +16,9 @@
 
 ## Get to Know Me <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="30">&nbsp;
 
-🎓 I'm a Senior Computer Science student, currently on a journey of learning and mastering a diverse set of technologies:
+🎓 I'm a Fresh Computer Science graduate, currently on a journey of learning and mastering a diverse set of technologies:
 
-- 🚀 Exploring the world of mobile app development with **Flutter**, **Dart**, **Swift**, and **Kotlin**.
+- 🚀 Exploring the world of mobile app development with **Flutter**, **Dart**, and **Swift**.
 - 🔥 Building dynamic and scalable applications using **Firebase**.
 - 💻 Crafting web experiences with **HTML** and **CSS**.
 - ☁️ Embracing the power of container orchestration with **Kubernetes**.
